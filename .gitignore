@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+
+# IntelliJ dirs
+*/.idea/workspace.xml */.idea/tasks.xml
